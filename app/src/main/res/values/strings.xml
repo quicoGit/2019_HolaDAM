@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">E_2_1_HolaDAM</string>
+    <string name="texto1">Hola DAM desde XML</string>
+</resources>
